@@ -1,1 +1,1 @@
-# uptime-bot
+**Uptime Bot**
